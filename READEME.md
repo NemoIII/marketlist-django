@@ -1,5 +1,3 @@
-# Django Personal Event Calender
-
 ## How To Setup
 1. Create a Project Directory `mkdir django_market_todo`
 2. Go to Project Directory `cd django_market_todo`
