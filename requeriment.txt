@@ -1,0 +1,5 @@
+pipenv
+django==3.0
+djangorestframework
+django-cors-headers
+django-pwa
